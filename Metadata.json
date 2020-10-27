@@ -1,0 +1,20 @@
+{
+    "Author": "Nemanja.Jovic",
+    "ContentSize": 4401,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/update-az.-modules/master/Update-AzAutomationModule.ps1",
+    "DownloadCount": 3311,
+    "Id": "Update-Az-Modules-a312e6bb",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 18,
+    "RaterCount": 2,
+    "Rating": 5.0,
+    "ReleaseDate": "2019-8-12T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Very powerful Powershell function which is made to download set of Az.* modules from Powershell gallery, compress them, upload to temporary blob storage on the Azure and then import them to target automation account.Linear cleanup is following the logic, so everything that is dow",
+    "Title": "Update Az. Modules",
+    "UpdatedDate": "2019-8-12T00:00:00",
+    "Url": "https://github.com/azureautomation/update-az.-modules",
+    "UserTags": ""
+}
